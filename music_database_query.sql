@@ -99,7 +99,6 @@ JOIN artist AS a ON a.artist_id = ab.artist_id
 GROUP BY 1, 2
 ORDER BY total_spent DESC   
 
---My code
 
 /* 2. We want to find out the most popular music Genre for each country. We determine the 
 most popular genre as the genre with the highest amount of purchases. Write a query 
