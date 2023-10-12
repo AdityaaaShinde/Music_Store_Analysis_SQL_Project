@@ -1,6 +1,6 @@
 # Music_Store_Analysis_SQL_Project
 
-- Music Store Analysis project aims to leverage SQL to analyze and gain valuable insights from the dataset by applying SQL queries using 
-  JOINS, Sub Queries, Common table expression, Window functions etc. 
-- Dataset contains data with respect to customers, employees, genres, artists, invoices etc.
-- Gained valuable insights on Top cities, Best customer, Top artists, Customer spendings etc.
+•	Utilized SQL to analyze a comprehensive dataset, including customer, employee, genre, artist, and invoice data.
+•	Applied advanced SQL techniques like JOINS, Sub Queries, Common Table Expressions, and Window Functions.
+•	Extracted valuable insights, including identifying top-performing cities, the most valuable customers, popular artists, and customer spending patterns. These insights support data-driven decision-making for business improvement.
+
